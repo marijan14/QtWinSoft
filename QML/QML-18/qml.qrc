@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ClickableImageV3.qml</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>images/ufo.png</file>
+        <file>images/ufo_background.png</file>
+    </qresource>
+</RCC>
