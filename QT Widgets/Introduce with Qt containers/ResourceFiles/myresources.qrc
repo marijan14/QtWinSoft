@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/MyFiles">
+        <file>ResourceFiles.pro</file>
+    </qresource>
+</RCC>
