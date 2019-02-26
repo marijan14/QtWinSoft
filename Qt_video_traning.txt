@@ -1,0 +1,59 @@
+//Introduce with Qt containers
+https://www.youtube.com/watch?v=sm6Rt8H6KrM&index=11&list=PL2D1942A4688E9D63			(✔)
+https://www.youtube.com/watch?v=Zyhv4D9WUbI&index=36&list=PL2D1942A4688E9D63			(✔)
+https://www.youtube.com/watch?v=tLNghTAPHqY&index=37&list=PL2D1942A4688E9D63			(✔)
+https://www.youtube.com/watch?v=7aonJh5f_YA&index=38&list=PL2D1942A4688E9D63			(✔)
+https://www.youtube.com/watch?v=O3GdZZmuPHc&index=39&list=PL2D1942A4688E9D63			(✔)
+https://www.youtube.com/watch?v=00C_T7lWPbw&index=40&list=PL2D1942A4688E9D63			(✔)
+https://www.youtube.com/watch?v=Ex0ieUQMQmg&index=41&list=PL2D1942A4688E9D63			(✔)
+https://www.youtube.com/watch?v=n9ekbNw3xjY&index=42&list=PL2D1942A4688E9D63			(✔)
+
+
+//Introduce with Qt Widgets, Signals, Slots, Layouts
+https://www.youtube.com/watch?v=GxlB34Cn0zw&list=PL2D1942A4688E9D63&index=3				(✔)
+https://www.youtube.com/watch?v=JtyCM4BTbYo&list=PL2D1942A4688E9D63&index=4				(✔)
+https://www.youtube.com/watch?v=wUH_gu2HdQE&list=PL2D1942A4688E9D63&index=5				(✔)
+https://www.youtube.com/watch?v=2edb0VOkx-k&list=PL2D1942A4688E9D63&index=6				(✔)
+https://www.youtube.com/watch?v=Gk3zh5lA4ww&index=7&list=PL2D1942A4688E9D63				(✔)
+https://www.youtube.com/watch?v=PQEBoftbtVQ&index=8&list=PL2D1942A4688E9D63				(✔)
+https://www.youtube.com/watch?v=G3iMyvzwQew&list=PL2D1942A4688E9D63&index=9				(✔)
+https://www.youtube.com/watch?v=fR57o_asTs0&list=PL2D1942A4688E9D63&index=10			(✔)
+
+
+Model/View programming
+https://www.youtube.com/watch?v=uDC9L4T59bM&index=47&list=PL2D1942A4688E9D63			(✔)
+https://www.youtube.com/watch?v=M0PZDrDwdHM&index=48&list=PL2D1942A4688E9D63			(✔)
+https://www.youtube.com/watch?v=92biLZST6Vg&index=49&list=PL2D1942A4688E9D63			(✔)
+https://www.youtube.com/watch?v=EJf-vZ6FQfc&index=50&list=PL2D1942A4688E9D63			(✔)
+
+
+Database Programming
+https://www.youtube.com/watch?v=3XE2bKUAxfw&list=PL2D1942A4688E9D63&index=51			(✔)
+https://www.youtube.com/watch?v=LiHHm7cd5Bs&list=PL2D1942A4688E9D63&index=52			(✔)
+https://www.youtube.com/watch?v=ahT9xRkBavc&list=PL2D1942A4688E9D63&index=53			(✔)
+https://www.youtube.com/watch?v=-YEysyrU0D8&list=PL2D1942A4688E9D63&index=54			(✔)
+https://www.youtube.com/watch?v=fJIdMdYJqFk&list=PL2D1942A4688E9D63&index=55			(✔)
+https://www.youtube.com/watch?v=LkbfNoZrTBQ&list=PL2D1942A4688E9D63&index=56			(✔)
+https://www.youtube.com/watch?v=CBJV3A84Wnc&list=PL2D1942A4688E9D63&index=57			(✔)
+
+Network Programming
+https://www.youtube.com/watch?v=A9W7cm94iAY&list=PL2D1942A4688E9D63&index=63			(✔)
+https://www.youtube.com/watch?v=dw50MnqH-Qo&list=PL2D1942A4688E9D63&index=64			(✔)
+https://www.youtube.com/watch?v=u5OdR46542M&list=PL2D1942A4688E9D63&index=65			(✔)
+https://www.youtube.com/watch?v=j9uAfTAZrdM&list=PL2D1942A4688E9D63&index=66			(✔)
+https://www.youtube.com/watch?v=BSdKkZNEKlQ&list=PL2D1942A4688E9D63&index=67			(✔)
+https://www.youtube.com/watch?v=iKtCXUHsV70&list=PL2D1942A4688E9D63&index=68			(✔)
+https://www.youtube.com/watch?v=xm_fkZolMFA&list=PL2D1942A4688E9D63&index=69			(✔)
+https://www.youtube.com/watch?v=BWEIWViWFwI&list=PL2D1942A4688E9D63&index=70			(✔)
+https://www.youtube.com/watch?v=4qx4FaglSig&list=PL2D1942A4688E9D63&index=71			(✔)
+
+QML:
+http://doc.qt.io/qt-5/qml-tutorial.html													(✔)
+http://doc.qt.io/qt-5/qmlfirststeps.html												(✔)
+http://doc.qt.io/qt-5/qtqml-cppintegration-contextproperties.html						(✔)
+http://doc.qt.io/qt-5/qtquick-modelviewsdata-modelview.html								(✔)
+http://doc.qt.io/qt-5/qtquick-modelviewsdata-cppmodels.html								(✔)
+http://doc.qt.io/qt-5/qtquick-models-stringlistmodel-example.html						(✔)
+http://doc.qt.io/qt-5/qtquick-models-objectlistmodel-example.html						(✔)
+http://doc.qt.io/qt-5/qtquick-models-abstractitemmodel-example.html						(✔)
+http://qmlbook.github.io/index.html														(✔)
