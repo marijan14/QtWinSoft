@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ToDoLists.qml</file>
+        <file>Header1.qml</file>
+        <file>CreateNewList.qml</file>
+        <file>Header2.qml</file>
+        <file>Footer.qml</file>
+        <file>CurrentOpenedList.qml</file>
+        <file>Header3.qml</file>
+        <file>EditList.qml</file>
+        <file>TaskList.qml</file>
+        <file>Footer2.qml</file>
+        <file>AddNewTasks.qml</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>images/tada-mark-bg.gif</file>
+        <file>images/open-1.gif</file>
+        <file>images/open-2.gif</file>
+        <file>images/b-create_this_list.gif</file>
+        <file>images/drag.gif</file>
+        <file>images/b-add_this_item.gif</file>
+    </qresource>
+</RCC>
