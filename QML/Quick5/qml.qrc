@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>images/bgd_bubbles.png</file>
+        <file>images/bgd_roster_gradient.png</file>
+        <file>images/btn_white_down.png</file>
+        <file>images/btn_white_hover.png</file>
+        <file>images/btn_white_normal.png</file>
+        <file>images/combo_arrow.png</file>
+        <file>images/field_focus.png</file>
+        <file>images/field_normal.png</file>
+        <file>images/phone.jpg</file>
+        <file>images/giphy.gif</file>
+    </qresource>
+</RCC>
